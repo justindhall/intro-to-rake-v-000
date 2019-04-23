@@ -8,3 +8,4 @@ namespace :greeting do
   take :hola do
     puts "hold de Rake!"
   end
+end
